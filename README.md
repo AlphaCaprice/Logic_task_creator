@@ -7,3 +7,5 @@ https://www.python.org/downloads/
 и написать команду: pip3 install pyqt5 . Эта команда установит библиотеку PyQt на Ваш интерпретатор.
 3. С помощью командной строки или IDLE pyhton открыть запустить скрипт main.py в папке Nir_Package.
 ССылка на проект: https://github.com/AlphaCaprice/NIR
+## Example
+![example](screenshots/1.png)
